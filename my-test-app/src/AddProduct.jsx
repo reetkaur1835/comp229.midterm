@@ -83,9 +83,8 @@ export default function Multiple() {
             Submit
           </button>
 
-          <button>
-            Cancel
-          </button>
+          <hr></hr>
         </form>    
+        
     );
 }
